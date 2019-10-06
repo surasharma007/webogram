@@ -121,3 +121,6 @@ The source code is licensed under GPL v3. License is available [here](/LICENSE).
 
 
 ### [Contribute](CONTRIBUTING.md)
+
+[Browswerstack for testing on multiple platforms](https://www.browserstack.com)
+
